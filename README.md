@@ -43,5 +43,8 @@ Thank you for your support!
 
 
 
-![Mindmap App UI Layout](Mindmap_App_UI_Layout.png)
+
+
+
+![Mindmap App UI Layout](mockup.svg)
 
