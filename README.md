@@ -45,7 +45,9 @@ Thank you for your support!
 
 
 
-nn![User Flow Diagram](docs/user_flow_diagram.png)n![Mindmap App UI Layout](mockup.svg)
+![User Flow Diagram](docs/user_flow_diagram.png)
+
+![Mindmap App UI Layout](mockup.svg)
 
 
 
