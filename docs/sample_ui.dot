@@ -1,0 +1,11 @@
+digraph SampleUI {
+    node [shape=box];
+    Dashboard -> "Mindmap 1";
+    Dashboard -> "Mindmap 2";
+    "Mindmap 1" -> "Node 1";
+    "Mindmap 1" -> "Node 2";
+    "Node 2" -> "Sub-node 1";
+    "Node 2" -> "Sub-node 2";
+    "Mindmap 2" -> "Node A";
+    "Mindmap 2" -> "Node B";
+}

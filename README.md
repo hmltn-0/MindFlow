@@ -37,3 +37,7 @@ Thank you for your support!
    - Integrate with third-party services (e.g., Google Drive, Trello)
    - Finalize UI/UX
 
+
+
+![Sample UI](docs/sample_ui.png)
+
