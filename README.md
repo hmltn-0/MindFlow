@@ -5,7 +5,7 @@ This is a sample project for a modern mindmapping application. We aim to create 
 **Support This Project**
 
 We are looking for funding to help bring this project to life. Support us through:
-- [GitHub Sponsors](https://github.com/sponsors/)
+- [GitHub Sponsors](https://github.com/sponsors/hmltn-0)
 - Small contributions via PayPal (link)
 - Other avenues (e.g., Patreon, BuyMeACoffee)
 
