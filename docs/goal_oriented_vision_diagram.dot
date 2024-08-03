@@ -1,0 +1,1 @@
+digraph GoalOrientedVision { rankdir=LR; Team -> "Superior Performance" [ label = "long-term priority" ]; Team -> "High Extensibility" [ label = "long-term priority" ]; Team -> "User Customization" [ label = "long-term priority" ]; Team -> "Superior User Experience" [ label = "long-term priority" ]; }
