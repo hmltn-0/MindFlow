@@ -41,3 +41,7 @@ Thank you for your support!
 
 ![Sample UI](docs/sample_ui.png)
 
+
+
+![Mindmap App UI Layout](Mindmap_App_UI_Layout.png)
+
