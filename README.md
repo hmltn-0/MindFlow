@@ -48,3 +48,11 @@ Thank you for your support!
 
 ![Mindmap App UI Layout](mockup.svg)
 
+
+
+![User Flow Diagram](docs/user_flow_diagram.png)
+
+
+
+![User Flow Diagram](docs/user_flow_diagram.png)
+

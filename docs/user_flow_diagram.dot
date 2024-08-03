@@ -1,0 +1,20 @@
+digraph UserFlow {
+    rankdir=LR;
+
+    start [shape=circle, label="Start"];
+    auth [shape=diamond, label="Authenticate"];
+    dashboard [shape=box, label="Dashboard"];
+    newProject [shape=box, label="Create New Mindmap"];
+    openProject [shape=box, label="Open Existing Mindmap"];
+    createNode [shape=box, label="Create New Node"];
+    selectNode [shape=box, label="Select Existing Node"];
+    end [shape=circle, label="End"];
+
+    start -> auth -> dashboard;
+    dashboard -> newProject;
+    dashboard -> openProject;
+    newProject -> createNode;
+    openProject -> selectNode;
+    createNode -> end;
+    selectNode -> end;
+}
