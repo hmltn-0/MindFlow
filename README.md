@@ -39,7 +39,6 @@ Thank you for your support!
 
 
 
-![Sample UI](docs/sample_ui.png)
 
 
 
