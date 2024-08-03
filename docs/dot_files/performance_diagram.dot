@@ -1,0 +1,1 @@
+digraph Performance { rankdir=LR; User -> "Quick Loading Time" [ label = "high priority" ]; User -> "Smooth Performance" [ label = "high priority" ]; User -> "Minimalist UI" [ label = "high priority" ]; }

@@ -1,0 +1,1 @@
+digraph Customization { rankdir=LR; User -> "Customize Keyboard Shortcuts" [ label = "medium priority" ]; User -> "Create Plugins" [ label = "medium priority" ]; User -> "Change Theme" [ label = "medium priority" ]; }

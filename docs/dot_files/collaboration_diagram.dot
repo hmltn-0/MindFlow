@@ -1,0 +1,1 @@
+digraph Collaboration { rankdir=LR; User -> "Share Mindmaps" [ label = "high priority" ]; User -> "Real-time Collaboration" [ label = "high priority" ]; User -> "Configure Permissions" [ label = "high priority" ]; }
