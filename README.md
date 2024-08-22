@@ -1,3 +1,4 @@
+![Build Status](https://img.shields.io/github/actions/workflow/status/hmltn-0/mindmap_app/build.yml)
 # Mindmap App
 
 This is a sample project for a modern mindmapping application. We aim to create a useful and efficient tool by incorporating best practices in software development, optimizing performance, and offering great customizability.
@@ -55,3 +56,4 @@ Thank you for your support!
 
 
 
+![MIT License](https://img.shields.io/github/license/hmltn-0/mindmap_app)
